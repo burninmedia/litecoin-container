@@ -1,0 +1,3 @@
+#litecoin configuration for docker image.
+VERSION: "0.18.1"
+PUB_PGP_KEY: "59CAF0E96F23F53747945FD4FE3348877809386C"
